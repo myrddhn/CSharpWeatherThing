@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmLwH0FOa2Mq5k+72u88r4a+KcdLWjr7e4POVC1MhOZ4Vd7KtPxHDZDAR1/8bm2FA+ddr2+ganeFzDhaUQWcVA==",
+  "success": true,
+  "projectFilePath": "C:\\Andi\\Projects\\dotnet\\WeatherThing\\WeatherThing\\WeatherThing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andi Reinbrech\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
